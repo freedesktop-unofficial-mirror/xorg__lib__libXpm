@@ -1,0 +1,1 @@
+Fixes CAN-2004-0687 (integer overflows) and CAN-2004-0688 (stack overflows)
